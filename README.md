@@ -1,8 +1,10 @@
-# 💟 Friendship Day Surprise – A Cute & Emotional Website for Your Bestie
+# 💟 Friendship Day Surprise!!
 
 A cute little surprise built with love for this Friendship Day 💛
 Sweet, simple, and made to make your bestie smile ✨
-
+i created this for my friend - khushi!
+you can use it and coustomize it for free.
+hope you like this project!
 ---
 
 ## 🛠 Tech Stack
@@ -20,10 +22,10 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Anuj579/friendship-day-site.git
+git clone https://github.com/shauryacodesforyou/khushii.git
 
 # Navigate into the folder
-cd friendship-day-site
+cd khushii
 
 # Install dependencies
 npm install
@@ -40,19 +42,14 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser to expl
 
 Follow me for more emotional surprise websites and creative dev content:
 
-- 📷 Instagram: [@anujbuilds](https://instagram.com/anujbuilds)
-- 🎬 YouTube: [@anujbuilds](https://youtube.com/@anujbuilds)
-- 🐦 Twitter: [@anujbuilds](https://twitter.com/anujbuilds)
-- 💼 LinkedIn: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
+- 📷 Instagram: [@shaurya.is_back](https://instagram.com/shaurya.is_back)
 
 ---
 
 ## ⭐ Support
 
-If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/Anuj579)  
+If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/shaurya.is_back)  
 Thank you for being here! 🫶  
-Made with emotions by **Anuj** – _@anujbuilds_
+Made with emotions by **shaurya**
 
-✨ If you'd like to support my work directly, you can donate via UPI:  
-**anujbuilds.wallet@phonepe**  
 Even a small contribution helps me keep creating cute, emotional projects 💖

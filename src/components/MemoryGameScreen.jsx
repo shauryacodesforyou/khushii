@@ -76,7 +76,7 @@ export default function MemoryGameScreen({ onGameComplete, gameCompleted }) {
       })
       setTimeout(() => {
         onGameComplete()
-      }, 8000)
+      }, 2000)
     }
   }, [matchedCards, gameStarted, onGameComplete])
 

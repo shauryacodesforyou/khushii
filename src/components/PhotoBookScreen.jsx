@@ -62,7 +62,7 @@ export default function PhotoBookScreen({ onNext }) {
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ delay: 0.3, duration: 0.8 }}
                     >
-                        Our Memory Album
+                        Here's Your Album
                     </motion.h2>
                     {!isBookOpen ? (
                         // Closed Book
@@ -104,8 +104,8 @@ export default function PhotoBookScreen({ onNext }) {
                                             <Book className="w-16 h-16 mb-6 text-cyan-400" />
                                         </motion.div>
 
-                                        <h3 className="text-2xl font-bold mb-2 text-center">Friendship</h3>
-                                        <h3 className="text-2xl font-bold mb-4 text-center">Memories</h3>
+                                        <h3 className="text-2xl font-bold mb-2 text-center">Your Memory</h3>
+                                        <h3 className="text-2xl font-bold mb-4 text-center">Album</h3>
 
                                         <motion.div
                                             className="flex items-center gap-2 text-pink-400"
@@ -130,7 +130,7 @@ export default function PhotoBookScreen({ onNext }) {
                                 animate={{ opacity: 1 }}
                                 transition={{ delay: 1, duration: 0.8 }}
                             >
-                                Tap the book to explore our beautiful memories
+                                Tap the book to explore yourself!
                             </motion.p>
                         </motion.div>
                     ) : (

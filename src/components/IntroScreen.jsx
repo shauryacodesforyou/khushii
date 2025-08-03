@@ -96,7 +96,7 @@ export default function IntroScreen({ onNext }) {
                         animate={{ opacity: 1 }}
                         transition={{ delay: 2, duration: 0.8 }}
                     >
-                        Click to unwrap the surprises! ✨
+                        Click to unwrap the magic! ✨
                     </motion.p>
                 </div>
             </div>

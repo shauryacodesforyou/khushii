@@ -14,13 +14,13 @@ export default function FinalMessageScreen() {
   const [floatingElements, setFloatingElements] = useState([])
 
   const messages = [
-    "Hey bestie! 💕",
-    "You mean the world to me...",
-    "Through every laugh, every tear, every crazy adventure...",
-    "You've been my constant, my support, my partner in crime! 🎉",
+    "Hey dear khushiii!",
+    "Thankyouu so muchh...",
+    "For every laugh, every tear, every crazy gossip...",
+    "You've been my consistet supporter, crime partner and friend! 🎉",
     "Thank you for being the most amazing friend anyone could ask for! ✨",
-    "Here's to many more years of friendship, fun, and unforgettable memories! 🥳",
-    "Happy Friendship Day, my dear friend! 💖",
+    "You're nothing less tha a blessing for me and I hope you always stays like this!🥳",
+    "Lastly, a VERY Happy Friendship Day Dear 💖",
   ]
 
   const titleWords = ["HAPPY", "FRIENDSHIP", "DAY!"]
@@ -342,7 +342,7 @@ export default function FinalMessageScreen() {
               whileTap={{ scale: 0.95 }}
             >
               <span className="flex items-center gap-2">
-                Celebrate Our Friendship!
+                A Last Final Blow?
                 <Sparkles className="w-5 h-5" />
               </span>
             </motion.button>

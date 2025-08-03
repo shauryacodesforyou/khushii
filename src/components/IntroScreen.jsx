@@ -59,7 +59,7 @@ export default function IntroScreen({ onNext }) {
                             </span>
                             <br />
                             <span className="bg-gradient-to-r from-purple-500 to-cyan-400 bg-clip-text text-transparent">
-                                Just For You!
+                                Special For You!
                             </span>
                         </motion.h1>
 
@@ -69,7 +69,7 @@ export default function IntroScreen({ onNext }) {
                             animate={{ opacity: 1, y: 0 }}
                             transition={{ delay: 1, duration: 0.8 }}
                         >
-                            Get ready for a little journey packed with memories, fun, and friendship magic! 💫
+                            Get ready for a little surprise packed with memories, fun and magic! 💫
                         </motion.p>
                     </motion.div>
 
@@ -96,7 +96,7 @@ export default function IntroScreen({ onNext }) {
                         animate={{ opacity: 1 }}
                         transition={{ delay: 2, duration: 0.8 }}
                     >
-                        Click to unwrap the surprise! ✨
+                        Click to unwrap the surprises! ✨
                     </motion.p>
                 </div>
             </div>

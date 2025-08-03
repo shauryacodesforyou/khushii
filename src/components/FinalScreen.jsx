@@ -342,7 +342,7 @@ export default function FinalMessageScreen() {
               whileTap={{ scale: 0.95 }}
             >
               <span className="flex items-center gap-2">
-                A Last Final Blow?
+                Final Blow? Tap-Tap-Tap
                 <Sparkles className="w-5 h-5" />
               </span>
             </motion.button>

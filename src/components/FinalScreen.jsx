@@ -16,11 +16,11 @@ export default function FinalMessageScreen() {
   const messages = [
     "Hey dear khushiii!",
     "Thankyouu so muchh...",
-    "For every laugh, every tear, every crazy gossip...",
+    "For every laugh, every tear and everyy crazyyy gossip!!",
     "You've been my consistet supporter, crime partner and friend! 🎉",
     "Thank you for being the most amazing friend anyone could ask for! ✨",
-    "You're nothing less tha a blessing for me and I hope you always stays like this!🥳",
-    "Lastly, a VERY Happy Friendship Day Dear 💖",
+    "You're nothing less than a blessing for me <<3 and I pray you always stays like this! 🫶",
+    "Finally, wanna wish you a VERYY Happy Friendship Day Dear 💖",
   ]
 
   const titleWords = ["HAPPY", "FRIENDSHIP", "DAY!"]
